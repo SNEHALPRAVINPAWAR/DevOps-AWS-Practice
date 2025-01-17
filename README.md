@@ -33,9 +33,9 @@ This repository documents my experience creating, managing, and working with AWS
 
 
 ## Lessons Learned :
-Understanding Instance type
-Key Pair Management
-Security Groups
-IAM Roles
-Cost management
-Networking Configurations
+1. Understanding Instance type
+2. Key Pair Management
+3. Security Groups
+4. IAM Roles
+5. Cost management
+6. Networking Configurations
