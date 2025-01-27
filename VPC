@@ -1,0 +1,10 @@
+I learned about understanding AWS VPC and its security groups which is essential for building secure and efficient cloud architectures.
+
+AWS Virtual Private Cloud (VPC) is a service that allows users to create a logically isolated network environment within the AWS cloud. This enables users to define their own IP address range, create subnets, and configure route tables and gateways, providing flexibility and security for cloud-based resources.
+
+Key learning :
+1. Subnets:Public Subnets and Private Subnets
+2. Route Tables
+3. Internet Gateway
+4. NAT Gateway
+5. Understanding Security Groups : Inbound rules, Outbound rules, Default Security Groups
