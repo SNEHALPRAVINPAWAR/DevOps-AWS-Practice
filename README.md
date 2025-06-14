@@ -14,3 +14,13 @@ Key Concepts Covered:
   - Bucket policy (JSON-based)
 - Testing access from another IAM user
 - Verifying access via direct URL in a browser (Chrome)
+
+
+
+**AWS CLI Practice**
+AWS CLI is a command-line tool that allows you to manage and interact with AWS services such as EC2, S3, IAM, and more directly from your terminal or scripts.
+
+This repository contains my hands-on practice using the **AWS CLI (Command Line Interface)**. It includes:
+- S3 bucket creation from the CLI
+- Basic AWS CLI commands for common AWS services
+- Understanding JSON output from CLI
