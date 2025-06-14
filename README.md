@@ -17,6 +17,8 @@ Key Concepts Covered:
 
 
 
+
+
 **AWS CLI Practice**
 
 AWS CLI is a command-line tool that allows you to manage and interact with AWS services such as EC2, S3, IAM, and more directly from your terminal or scripts.
