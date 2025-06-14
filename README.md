@@ -22,12 +22,12 @@ Key Concepts Covered:
 In this section of the project, I explored Amazon Route 53 using both the AWS Command Line Interface (CLI) and Route 53 APIs. The goal was to understand how DNS management and domain routing are handled programmatically on AWS.
 
 ✅ What Was Practiced :
--Creating a hosted zone using the Route 53 API
--Listing existing hosted zones
--Adding and listing DNS records (A, CNAME, TXT, etc.)
--Understanding hosted zone IDs and record formatting
--Deleting hosted zones and associated records
--Observing how Route 53 interacts with other services like EC2 and S3 when routing traffic
+- Creating a hosted zone using the Route 53 API
+- Listing existing hosted zones
+- Adding and listing DNS records (A, CNAME, TXT, etc.)
+- Understanding hosted zone IDs and record formatting
+- Deleting hosted zones and associated records
+- Observing how Route 53 interacts with other services like EC2 and S3 when routing traffic.
 
 
 
